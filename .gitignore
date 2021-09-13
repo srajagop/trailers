@@ -1,0 +1,9 @@
+# Logs
+logs
+*.log
+
+# out
+out
+
+# vsccode
+.vscode
