@@ -1,6 +1,7 @@
 ## Sample Roku TV channel
 
-A sample roku TV channel implementation
+A sample roku TV channel implementation based pretty much off the roku developer portal build a channel example
+https://developer.roku.com/en-gb/videos/courses/rsg/overview.md
 
 ### DEV notes
 
@@ -14,6 +15,6 @@ https://github.com/srajagop/trailers/blob/main/app.mk#L138
 
 ### TODO
 - [ ] Sidebar menu
-- [ ] Authorization
 - [ ] Scene Routing / Stacking refactor
 - [ ] Lazy Loading
+- [ ] Authorization
